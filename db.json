@@ -1,0 +1,48 @@
+{
+  "units": [
+    [
+      {
+        "name": "Posto Br 001",
+        "address": "Rua São consalo, 5421",
+        "places": [
+          {
+            "name": "Bomba 01",
+            "temp": 65,
+            "level": 40
+          },
+          {
+            "name": "Bomba 02",
+            "temp": 75,
+            "level": 85
+          },
+          {
+            "name": "Bomba 03",
+            "temp": 60,
+            "level": 10
+          }
+        ]
+      },
+      {
+        "name": "Posto Shell 001",
+        "address": "Rua Dom Miguel, 112",
+        "places": [
+          {
+            "name": "Bomba 01",
+            "temp": 65,
+            "level": 40
+          },
+          {
+            "name": "Bomba 02",
+            "temp": 75,
+            "level": 85
+          },
+          {
+            "name": "Bomba 03",
+            "temp": 60,
+            "level": 10
+          }
+        ]
+      }
+    ]
+  ]
+}
